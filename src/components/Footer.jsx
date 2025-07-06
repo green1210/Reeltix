@@ -75,7 +75,7 @@ const Footer = () => {
                 <div className="absolute inset-0 h-8 w-8 rounded-full bg-primary-500/20 group-hover:bg-primary-500/30 animate-pulse"></div>
               </div>
               <div>
-                <span className="text-2xl font-bold gradient-text">ReelTiK</span>
+                <span className="text-2xl font-bold gradient-text">ReelTix</span>
                 <div className="text-sm text-gray-400">Premium Experience</div>
               </div>
             </Link>
@@ -91,7 +91,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-3 text-gray-400">
                 <Mail className="h-4 w-4 text-primary-400" />
-                <span className="text-sm">www.reeltik.com</span>
+                <span className="text-sm">www.reeltix.com</span>
               </div>
               <div className="flex items-center space-x-3 text-gray-400">
                 <MapPin className="h-4 w-4 text-primary-400" />
@@ -233,7 +233,7 @@ const Footer = () => {
 
             {/* Copyright */}
             <div className="flex items-center space-x-2 text-gray-400 text-sm">
-              <span>© ReelTik. Made with</span>
+              <span>© ReelTix. Made with</span>
               <Heart className="h-4 w-4 text-red-500 fill-current" />
               <span>for movie lovers.</span>
             </div>

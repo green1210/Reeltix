@@ -64,7 +64,7 @@ const Login = () => {
             </div>
           </div>
           <h2 className="text-4xl font-bold gradient-text mb-2">Welcome Back</h2>
-          <p className="text-gray-400">Sign in to your ReelTik account</p>
+          <p className="text-gray-400">Sign in to your ReelTix account</p>
         </div>
 
         <div className="card p-8">
@@ -167,7 +167,7 @@ const Login = () => {
           <div className="mt-8 p-4 bg-primary-500/10 rounded-xl border border-primary-500/20">
             <h4 className="text-sm font-semibold text-primary-400 mb-2">Demo Credentials</h4>
             <div className="text-xs text-gray-400 space-y-1">
-              <div>Email: demo@reeltik.com</div>
+              <div>Email: demo@reeltix.com</div>
               <div>Password: demo123</div>
               <div className="text-xs text-gray-500 mt-2">
                 Note: Only registered emails can login

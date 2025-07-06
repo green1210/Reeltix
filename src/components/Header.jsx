@@ -82,7 +82,7 @@ const Header = () => {
               </div>
               <div className="flex flex-col">
                 <span className="text-sm sm:text-lg font-bold gradient-text group-hover:scale-105 transition-transform duration-300">
-                  ReelTik
+                  ReelTix
                 </span>
                 <span className="text-xs text-gray-400 -mt-1 hidden sm:block">Premium Experience</span>
               </div>
@@ -179,7 +179,7 @@ const Header = () => {
           <div className="flex items-center justify-between mb-6">
             <div className="flex items-center space-x-2">
               <Film className="h-6 w-6 text-primary-400" />
-              <span className="text-lg font-bold gradient-text">ReelTik</span>
+              <span className="text-lg font-bold gradient-text">ReelTix</span>
             </div>
             <button
               onClick={() => setIsMobileMenuOpen(false)}

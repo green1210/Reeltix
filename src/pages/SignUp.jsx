@@ -94,7 +94,7 @@ const SignUp = () => {
               <div className="absolute inset-0 h-16 w-16 rounded-full bg-primary-500/20 animate-pulse"></div>
             </div>
           </div>
-          <h2 className="text-4xl font-bold gradient-text mb-2">Join ReelTik</h2>
+          <h2 className="text-4xl font-bold gradient-text mb-2">Join ReelTix</h2>
           <p className="text-gray-400">Create your account for the ultimate movie experience</p>
         </div>
 
@@ -275,7 +275,7 @@ const SignUp = () => {
 
         {/* Benefits */}
         <div className="card p-6">
-          <h3 className="text-lg font-bold gradient-text mb-4 text-center">Why Join ReelTik ?</h3>
+          <h3 className="text-lg font-bold gradient-text mb-4 text-center">Why Join ReelTix ?</h3>
           <div className="space-y-3 text-sm text-gray-300">
             <div className="flex items-center space-x-2">
               <div className="w-2 h-2 bg-primary-500 rounded-full"></div>
