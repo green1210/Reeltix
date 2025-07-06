@@ -91,6 +91,7 @@ To run this project locally, create a `.env` file in the root and add your API k
 
 ```env
 VITE_TMDB_API_KEY=your_tmdb_api_key_here
+```
 
 ## 🛠️ Setup Instructions
 
@@ -106,6 +107,7 @@ npm install
 
 # Run the development server
 npm run dev
+
 ```
 ---
 
