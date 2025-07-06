@@ -48,7 +48,7 @@ This project was created using **zero manual coding**. Instead, it was built usi
 
 ## 🔗 Live Demo
 
-**🌐 [Live Project on Vercel](https://zenlify-ancsr7xxy-nagamanikanta1210s-projects.vercel.app/)**  
+**🌐 [Live Project on Vercel](https://reeltix.vercel.app/)**  
 _Deployed with Vercel for global accessibility and blazing-fast performance._
 
 ---
